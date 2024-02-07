@@ -1,0 +1,77 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #dff0e5;
+  height: 70px;
+  border-style: none;
+  border-width: none;
+  border-color:  #fac505;
+
+  
+  
+}
+.left-section{
+  display: flex;
+  align-items: center;
+  color: #fac505;
+
+}
+.right-section{
+  display: flex;
+  align-items: center;
+}
+.webtitle{
+  font-family: Arial,Roboto;
+  margin-left: 30px;
+  font-size: 30px;
+}
+.home-menue{
+  font: Arial,Roboto;
+  margin-right:50px;
+  cursor: pointer;
+  color: #fac505;
+  font-size: 23px;
+}
+.contacts-menue{
+  font-family: Arial,Roboto;
+  margin-right: 50px;
+  cursor: pointer;
+  color: #fac505;
+  font-size: 23px;
+}
+.semester-menue{
+  font-family: Arial,Roboto;
+  margin-right: 50px;
+  cursor: pointer;
+  color: #fac505;
+  font-size: 23px;
+}
+.second-section{
+  display: flex;
+  flex-direction: row;
+}
+.student{
+  margin-left: 60px;
+}
+.introduction{
+  width: 400px;
+  margin-top: 120px;
+  color: rgb(87, 83, 82);
+  font-family: serif;
+}
+.intro-button{
+  color: white;
+  background-color: #fac505;
+  border-radius: 4px;
+  border: none;
+  margin-top: 30px;
+  margin-left: 40px;
+  font-family: serif;
+  font-size: 25px;
+  cursor: pointer;
+}
+.intro-button:hover{
+  border-width: 23px;
+  border-color: firebrick;
+}

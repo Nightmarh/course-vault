@@ -1,0 +1,18 @@
+body{
+  font-family: Arial, Roboto;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding-bottom: 599px;
+  
+}
+h1{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+button{
+  height: 40px;
+  padding: 5px;
+  width: 200px;
+  font: 25px;
+}
